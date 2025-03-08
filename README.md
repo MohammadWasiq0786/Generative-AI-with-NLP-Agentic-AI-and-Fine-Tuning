@@ -1,6 +1,6 @@
 # Generative AI with NLP Agentic AI and Fine Tuning
 
-![euron](https://jupyter.org/try-jupyter/lab/index.html?path=euronone.jpeg)
+![euron](https://github.com/MohammadWasiq0786/Generative-AI-with-NLP-Agentic-AI-and-Fine-Tuning/blob/main/euronone.jpeg)
 
 <center> <h1 style= "color:red"> Generative AI with NLP, Agentic AI and Fine Tuning </h1> </center>
 
