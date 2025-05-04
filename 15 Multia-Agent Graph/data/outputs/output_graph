@@ -1,0 +1,78 @@
+digraph {
+	bgcolor=white
+	graph [nodesep=1.5 rankdir=TB ranksep=2.5]
+	node [color="#FFB300" fillcolor="#FFF8DC" fontcolor="#000000" fontname="Helvetica-Bold" fontsize=24 height=1 shape=box style="filled,setlinewidth(3)" width=2]
+	edge [arrowsize=1.4 color="#999999" penwidth=2.0]
+	Phase
+	Fundamentals
+	"Python Programming"
+	"Euron's Python Course (4 weeks)"
+	"Mathematics for AI (Linear Algebra, Calculus, Statistics)"
+	"Euron's Math for Data Science (6 weeks)"
+	"Data Handling & Visualization"
+	"Euron's Data Analysis & Visualization (3 weeks)"
+	"Programming Practice & Projects"
+	"Euron's Coding Bootcamp (4 weeks)"
+	Specialization
+	"Machine Learning Algorithms"
+	"Euron's Machine Learning Specialization (6 weeks)"
+	"Deep Learning & Neural Networks"
+	"Euron's Deep Learning Course (5 weeks)"
+	"Natural Language Processing"
+	"Euron's NLP Techniques (4 weeks)"
+	"Computer Vision"
+	"Euron's Computer Vision Modules (4 weeks)"
+	Advanced
+	"Model Deployment & Production"
+	"Euron's Deployment & MLOps (3 weeks)"
+	"Projects & Portfolio Building"
+	"Euron's Capstone Projects (4 weeks)"
+	"Industry Readiness"
+	"Interview Preparation & Resume Building"
+	"Euron's Career Services (3 weeks)"
+	"Certification & Networking"
+	"Participate in Hackathons & Community Events"
+	"Euron's Community Platform (Ongoing)"
+	"Continuous Learning"
+	"Stay Updated with Latest Research"
+	"Euron's Resources & Articles (Ongoing)"
+	Phase -> Fundamentals
+	Fundamentals -> "Python Programming"
+	"Python Programming" -> "Euron's Python Course (4 weeks)"
+	Phase -> Fundamentals
+	Fundamentals -> "Mathematics for AI (Linear Algebra, Calculus, Statistics)"
+	"Mathematics for AI (Linear Algebra, Calculus, Statistics)" -> "Euron's Math for Data Science (6 weeks)"
+	Phase -> Fundamentals
+	Fundamentals -> "Data Handling & Visualization"
+	"Data Handling & Visualization" -> "Euron's Data Analysis & Visualization (3 weeks)"
+	Phase -> Fundamentals
+	Fundamentals -> "Programming Practice & Projects"
+	"Programming Practice & Projects" -> "Euron's Coding Bootcamp (4 weeks)"
+	Phase -> Specialization
+	Specialization -> "Machine Learning Algorithms"
+	"Machine Learning Algorithms" -> "Euron's Machine Learning Specialization (6 weeks)"
+	Phase -> Specialization
+	Specialization -> "Deep Learning & Neural Networks"
+	"Deep Learning & Neural Networks" -> "Euron's Deep Learning Course (5 weeks)"
+	Phase -> Specialization
+	Specialization -> "Natural Language Processing"
+	"Natural Language Processing" -> "Euron's NLP Techniques (4 weeks)"
+	Phase -> Specialization
+	Specialization -> "Computer Vision"
+	"Computer Vision" -> "Euron's Computer Vision Modules (4 weeks)"
+	Phase -> Advanced
+	Advanced -> "Model Deployment & Production"
+	"Model Deployment & Production" -> "Euron's Deployment & MLOps (3 weeks)"
+	Phase -> Advanced
+	Advanced -> "Projects & Portfolio Building"
+	"Projects & Portfolio Building" -> "Euron's Capstone Projects (4 weeks)"
+	Phase -> "Industry Readiness"
+	"Industry Readiness" -> "Interview Preparation & Resume Building"
+	"Interview Preparation & Resume Building" -> "Euron's Career Services (3 weeks)"
+	Phase -> "Certification & Networking"
+	"Certification & Networking" -> "Participate in Hackathons & Community Events"
+	"Participate in Hackathons & Community Events" -> "Euron's Community Platform (Ongoing)"
+	Phase -> "Continuous Learning"
+	"Continuous Learning" -> "Stay Updated with Latest Research"
+	"Stay Updated with Latest Research" -> "Euron's Resources & Articles (Ongoing)"
+}
