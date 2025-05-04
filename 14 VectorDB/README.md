@@ -12,7 +12,8 @@
 
 ## Topics
 
-1. **ChromaDB**
+1. **Pinecone**
+2. **Weaviate**
 
 ## Important Links
 
