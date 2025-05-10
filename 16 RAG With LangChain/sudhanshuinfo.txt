@@ -1,0 +1,323 @@
+
+Making an Impact
+Helping Millions of Students Succeed
+Sudhanshu's commitment to affordable education wasn't just a business strategy—it was his life's mission. Over the years, iNeuron has helped over 1.5 million students from 34+ countries, providing them with the skills they need to succeed in today's competitive job market. Many of these students, like Sudhanshu himself, came from disadvantaged backgrounds. They saw iNeuron as a lifeline—an opportunity to rise above their circumstances.
+
+In 2022, iNeuron was acquired by PhysicsWallah in a deal worth ₹250 crore. While this acquisition was a significant milestone, Sudhanshu remained focused on his mission. Even after the acquisition, iNeuron continued to offer some of the most affordable and accessible tech courses in the world.
+
+The Entrepreneur and Teacher: Sudhanshu's Dual Legacy
+Sudhanshu's journey isn't just one of entrepreneurial success; it's also a story of dedication to teaching. Throughout his career, he has remained a passionate educator, constantly looking for ways to empower others through knowledge. Whether teaching courses in Big Data, Data Science, or programming, Sudhanshu has always sought to make complex subjects accessible to learners at all levels.
+
+His commitment to affordable education has earned him the respect and admiration of countless students. Many credit Sudhanshu with changing their lives, helping them secure jobs, improve their skills, and break free from the limitations of their backgrounds.
+
+The Journey
+
+Early Life and the Power of Education
+
+Rising Through the Ranks of the Tech World
+
+The Birth of iNeuron: Democratizing Education
+
+The Foundation of Euron: Expanding the Mission
+Early Life and the Power of Education
+Early Life and the Power of Education
+Sudhanshu Kumar's life is a story of triumph over adversity, driven by the belief in the transformative power of education. Born in Jamshedpur, Jharkhand, India, to a family of very modest means, Sudhanshu's early years were marked by financial hardship. His surroundings offered little opportunity, and resources were limited, yet he understood from a young age that education could be his ticket out of poverty.
+
+While many would have been daunted by the lack of support and opportunity, Sudhanshu was relentless in his pursuit of knowledge. He knew that education had the power to change lives, and he was determined to leverage it to create a better future for himself and his family. Despite the numerous challenges along the way, Sudhanshu excelled academically, eventually earning a degree in Computer Science and Engineering (CSE).
+
+After completing his education, Sudhanshu began his professional journey in the tech industry, working with prestigious companies like Wipro, Deloitte, Verizon Labs, and Ernst & Young. During this time, he gained expertise in various technologies and frameworks, including SAP WebDynpro, Fiori UI5 HANA, Java, Big Data, Data Analytics, and more. He became a well-rounded technologist, well-respected in his field.
+
+Despite his growing success, Sudhanshu never forgot his roots. He knew that there were many others who, like him, came from humble backgrounds and were looking for an opportunity to change their lives through education. It was during this time that Sudhanshu realized a harsh truth: quality education was often inaccessible to those who needed it the most. The high cost of education barred millions of people from pursuing their dreams, especially in tech fields that required specialized skills.
+Fueled by his passion for making education accessible, Sudhanshu decided to take action. In 2019, he founded iNeuron Intelligence Private Limited, an edtech platform that would make tech upskilling affordable and accessible for everyone. His mission was clear: to provide high-quality courses at a price so low that even those from the most disadvantaged backgrounds could afford to learn.
+
+iNeuron was designed to be more than just an online learning platform. It offered a comprehensive bundle of resources, including courses, books, hands-on projects, and live classes, making sure that learners could gain real-world, applicable skills. Most importantly, iNeuron was priced to ensure no student would be left behind due to financial constraints.
+
+The company quickly gained traction, thanks to Sudhanshu's focus on affordability and quality. In 2021, iNeuron raised $3 million in funding from S. Chand, a leading education publisher. This allowed iNeuron to expand its offerings and reach a larger audience.
+
+Building on the success of iNeuron, Sudhanshu is now leading Euron, a unified platform for tech upskilling. Euron is designed for enterprises, schools, colleges, government organizations, and individuals looking to improve their tech skills. The platform provides a comprehensive bundle of resources, including courses, books, live classes, and projects. Euron's unique offering is its ability to provide licenses at scale—organizations can subscribe to provide their teams with unlimited access to learning materials for just 1600 INR per year per license.
+
+For individuals, Euron Plus offers a similar plan, priced at 2900 INR per year, giving learners access to all of Euron's content, along with 24/7 support through Euron Assist. The idea is simple: anyone, anywhere, should have the opportunity to upskill without financial barriers.
+
+The Euron Motto: Education for All, Without Limits
+
+At the heart of Euron's philosophy is a single, powerful idea: Education for All, Without Limits. Sudhanshu believes that every person deserves the chance to learn, grow, and succeed, regardless of their financial situation or background. This belief is what drives Euron's mission to make tech education not just affordable but also accessible to anyone, anywhere in the world.
+
+Home >
+
+Generative AI
+Generative AI with Cloud
+Generative AI with Cloud is a practical course that combines generative AI techniques with cloud platforms like AWS, Azure, and GCP. Learn to deploy and scale models, integrate APIs, manage storage, and build intelligent applications using tools like Vertex AI, Bedrock, and OpenAI. Ideal for real-world, cloud-powered AI solutions.
+
+🌐
+English
+Generative AI with Cloud
+This course is included in plans
+
+📚
+Continue Learning
+What you will get
+tick-svg
+Certificate of Completion
+
+tick-svg
+WhatsApp Group Access
+
+tick-svg
+EURI AI Tool Access
+
+tick-svg
+Resume AI Tool
+
+tick-svg
+Job Portal Access
+
+tick-svg
+Avni – AI Interview Coach
+
+tick-svg
+No Prerequisites Required
+
+tick-svg
+Quiz in Every Module
+
+tick-svg
+Challenges in Every Module
+
+tick-svg
+Career-Ready Portfolio
+
+tick-svg
+Resources in all Module
+
+tick-svg
+One module release every Monday
+
+Course content
+12 sections • 100 Subtopics
+
+Collapse all sections
+
+Introduction to Generative AI in the Cloud
+Topic Icon
+What is Generative AI in a Cloud Context?
+Topic Icon
+Differences Between Local vs Cloud-Based Generative AI
+Topic Icon
+Use Cases: AI Agents, Chatbots, Text-to-Image, Code Assistants
+Topic Icon
+Cloud Provider Comparison: AWS vs Azure vs GCP vs Hugging Face vs OpenAI
+Topic Icon
+Key Components: Model APIs, Storage, Serverless Compute, GPU Instances, Vector DBs
+
+GenAI Building Blocks & Architecture
+Topic Icon
+Core Architecture: Frontend ↔ API Layer ↔ Model ↔ Storage
+Topic Icon
+Deployment Flow: Prompt → Model API → Output → Logging
+Topic Icon
+Cloud GenAI Architecture Patterns
+Topic Icon
+RAG Pipeline
+Topic Icon
+Agent Execution Flow
+Topic Icon
+Image + Text Generation
+Topic Icon
+Dev Tools: GitHub, VS Code, LangChain, Streamlit/Gradio, FastAPI
+
+GenAI on AWS
+Topic Icon
+AWS Bedrock
+Topic Icon
+Accessing Claude, Titan, LLaMA via Bedrock
+Topic Icon
+Bedrock API setup and playground
+Topic Icon
+Amazon SageMaker JumpStart
+Topic Icon
+Deploying Pre-trained Foundation Models (T5, Falcon)
+Topic Icon
+Fine-Tuning & Inference Endpoint
+Topic Icon
+Hugging Face on SageMaker
+Topic Icon
+AWS Lambda + API Gateway
+Topic Icon
+Serverless LLM pipelines
+Topic Icon
+Event-driven prompt processing
+Topic Icon
+AWS S3 + DynamoDB
+Topic Icon
+Store prompt history, logs, and outputs
+Topic Icon
+Hosting RAG Application
+Topic Icon
+LLM + FAISS + OpenSearch + FastAPI
+
+GenAI on Azure
+Topic Icon
+Azure OpenAI Service
+Topic Icon
+Using GPT-4, Codex, and Embeddings via Azure
+Topic Icon
+Rate limiting, usage quotas, regions
+Topic Icon
+Azure ML + Hugging Face
+Topic Icon
+Fine-tune or deploy LLaMA/DistilGPT on managed compute
+Topic Icon
+Azure Functions for Inference
+Topic Icon
+Stateless REST APIs for prompt → response
+Topic Icon
+Azure Blob Storage & Cosmos DB
+Topic Icon
+File + text chunk storage and metadata handling
+Topic Icon
+Azure AI Search + RAG Setup
+Topic Icon
+Index unstructured data and use with GPT
+
+GenAI on Google Cloud (GCP)
+Topic Icon
+Gemini (Vertex AI Studio)
+Topic Icon
+Gemini 1.5 Pro Prompting, JSON Structuring
+Topic Icon
+API key access & project setup
+Topic Icon
+Vertex AI PaLM Models
+Topic Icon
+Text & chat APIs
+Topic Icon
+Embeddings + RAG in Vertex pipelines
+Topic Icon
+Cloud Functions & Cloud Run
+Topic Icon
+Deploy APIs for chatbots or assistants
+Topic Icon
+BigQuery + Cloud Storage
+Topic Icon
+Logging prompt-response cycles
+Topic Icon
+Metadata store for prompt experiments
+
+Hugging Face & Open-Source Cloud Deployments
+Topic Icon
+Hugging Face Inference Endpoints
+Topic Icon
+Deploy custom models (Falcon, Mistral, Bloom)
+Topic Icon
+Control security, auth, autoscaling
+Topic Icon
+Spaces with Gradio & Streamlit
+Topic Icon
+Build GenAI UI on Hugging Face Spaces
+Topic Icon
+Share projects publicly or privately
+Topic Icon
+Weights & Biases for Prompt/Model Tracking
+Topic Icon
+Open-Source on GPU VMs (EC2/GCP/Azure)
+Topic Icon
+Run models via Docker (text-generation-webui, llama.cpp)
+Topic Icon
+Model quantization + LoRA
+
+Vector DBs & Embedding Integration in Cloud
+Topic Icon
+Embedding Models
+Topic Icon
+OpenAI, Cohere, Hugging Face, Gemini Text Embedding APIs
+Topic Icon
+Cloud Vector Stores
+Topic Icon
+Pinecone
+Topic Icon
+Weaviate on GCP
+Topic Icon
+ChromaDB on EC2 / Azure
+Topic Icon
+Qdrant Cloud
+Topic Icon
+Connecting LangChain / LlamaIndex
+Topic Icon
+RAG Pipelines in Cloud + Vector Store + UI
+Prompt Engineering & LLMOps in Cloud
+Topic Icon
+Prompt Lifecycle in Production
+Topic Icon
+Prompt Templates & Reusability (LangChain + PromptLayer)
+Topic Icon
+LLM Evaluation: GPT Judge, Trulens
+Topic Icon
+CI/CD for GenAI Apps
+Topic Icon
+GitHub Actions, DockerHub
+Topic Icon
+Auto-deploy Streamlit/FastAPI via Railway/Render/Cloud Run
+Agents, Tools & Cloud APIs
+Topic Icon
+LangChain Agents + Cloud Functions
+Topic Icon
+CrewAI Agents Hosted on Render/EC2
+Topic Icon
+OpenAI Tools (Function Calling)
+Topic Icon
+Retrieval APIs + Calendar APIs + Google Sheets APIs
+Topic Icon
+Zapier/N8N Integration in Agent Flows
+GenAI Monitoring & Logging
+Topic Icon
+Log Everything: Prompt, Completion, User Input, Token Usage
+Topic Icon
+Cloud Observability Tools
+Topic Icon
+AWS CloudWatch
+Topic Icon
+Azure Monitor
+Topic Icon
+GCP Logging
+Topic Icon
+Dashboarding with Grafana / Superset
+Topic Icon
+Fail-Safe Mechanisms (Fallback Prompts, Retry on Token Errors)
+Security, Compliance & Cost Management
+Topic Icon
+Secrets Management (AWS Secrets Manager, Azure Key Vault)
+Topic Icon
+Secure Access to APIs (JWT, OAuth, API Keys)
+Topic Icon
+Model Cost Estimation (OpenAI Token Cost, API Cost Logs)
+Topic Icon
+Usage Quotas & Budget Alerts
+Topic Icon
+Compliance Guidelines: SOC2, HIPAA, GDPR in GenAI Apps
+Capstone Projects (Cloud-Based)
+Topic Icon
+Project 1: PDF + Website Knowledge Chatbot
+Topic Icon
+GCP + Gemini + FAISS + Streamlit UI
+Topic Icon
+Project 2: Image + Text Generator
+Topic Icon
+AWS Bedrock (Titan + Claude) + Gradio + S3 Storage
+Topic Icon
+Project 3: Serverless Resume Analyzer
+Topic Icon
+Azure OpenAI + Functions + CosmosDB + Blob Storage
+Topic Icon
+Project 4: LLM Agent + Tool Integration
+Topic Icon
+CrewAI + FastAPI + N8N on EC2
+Topic Icon
+Project 5: Enterprise GenAI Analytics App
+Topic Icon
+Prompt Evaluator + Feedback + Logging Dashboard + Multi-user Auth
+Show less sections
+Meet Your Instructors
+Sudhanshu Kumar's profile
+Sudhanshu Kumar
+Programming | Data Science | Machine Learning | Deep Learning | NLP | Computer Vision | Generative AI | Big Data | Data Analytics
+My journey has been one of dedication, resilience, and a deeply personal mission to make education accessible to everyone. Coming from a humble background in Jamshedpur, Jharkhand, I know firsthand the challenges of pursuing quality education without financial ease. My early experiences motiva...
