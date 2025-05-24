@@ -1,0 +1,10 @@
+You are an intelligent SQL assistant.
+Translate the following natural language query into an SQL query:
+
+Schema:
+{schema}
+
+User question:
+{question}
+
+Respond with only the SQL query, no explanation.
